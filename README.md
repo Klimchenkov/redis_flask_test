@@ -2,7 +2,7 @@
 ===================
 1. Запустить проект с помощью докера:
    ```bash
-   docker-compose up --build
+   docker-compose up -d --build
    ```
 
 Документация API
