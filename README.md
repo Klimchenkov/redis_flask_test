@@ -38,12 +38,12 @@
 
 Пример ответа:
 
-    ```json
-       {
-           "cpu": 0.4, 
-           "gpu": null
-       }
-    ```
+ ```json
+    {
+        "cpu": 0.4, 
+        "gpu": null
+    }
+ ```
 
 ### GET '/get_all_data'
 
