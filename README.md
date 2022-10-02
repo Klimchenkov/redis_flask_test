@@ -51,12 +51,12 @@
 
 Пример ответа:
 
-    ```json
-       {
-           "02:10:18:45:19": {"method": "GET", "info": {"cpu": 1.0, "ram": 22.6, "gpu": null}}, 
-           "02:10:18:51:23": {"method": "POST", "info": {"cpu": 0.4, "gpu": null}}
-       }
-    ```
+ ```json
+    {
+        "02:10:18:45:19": {"method": "GET", "info": {"cpu": 1.0, "ram": 22.6, "gpu": null}}, 
+        "02:10:18:51:23": {"method": "POST", "info": {"cpu": 0.4, "gpu": null}}
+    }
+ ```
 
 ### POST '/remove_data'
 
